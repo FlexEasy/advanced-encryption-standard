@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Oct 31 23:13:20 2018
+Quartus II 64-Bit Version : 15.0.2 Build 153 07/15/2015 SJ Full Version
+Revision Name : ECE385_Lab9
+Top-level Entity Name : lab9_top
+Family : Cyclone IV E
+Total logic elements : 3,382
+    Total combinational functions : 2,394
+    Dedicated logic registers : 2,125
+Total registers : 2125
+Total pins : 142
+Total virtual pins : 0
+Total memory bits : 11,392
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
